@@ -1,0 +1,30 @@
+1	Dainik Bhaskar	Hindi	Bhopal	4,579,051
+2	Dainik Jagran	Hindi	Kanpur	3,614,162
+3	The Times of India	English	Mumbai	2,880,144
+4	Malayala Manorama	Malayalam	Kottayam	2,308,612
+5	Amar Ujala	Hindi	Noida	2,261,990
+6	Hindustan Dainik	Hindi	New Delhi	2,221,566
+7	Rajasthan Patrika	Hindi	Rajasthan	1,788,420
+8	Eenadu	Telugu	Hyderabad	1,614,105
+9	Dina Thanthi	Tamil	Chennai	1,472,948
+10	The Hindu	English	Chennai	1,415,792
+11	Sakal	Marathi	Pune	1,263,955
+12	Mathrubhumi	Malayalam	Kozhikode	1,230,778
+13	Punjab Kesari	Hindi	Jalandhar	1,105,851
+14	Patrika	Hindi	Jaipur	1,095,144
+15	Hindustan Times	English	New Delhi	1,072,966
+16	Sakshi	Telugu	Hyderabad	1,064,661
+17	Ananda Bazar Patrika	Bengali	Kolkata	1,046,607
+18	Divya Bhaskar	Gujarati	Ahmedabad	792,022
+19	Dinamalar	Tamil	Chennai	768,300
+20	Vijayavani	Kannada	Hubli	757,119
+21	Vijay Karnataka	Kannada	Bengaluru	673,639
+22	Pudhari	Marathi	Kolhapur	669,998
+23	Andhra Jyothi	Telugu	Hyderabad	664,352
+24	Bartaman	Bengali	Kolkata	635,296
+25	Deshabhimani	Malayalam	Trivandrum	568,039
+26	Prajavani	Kannada	Bengaluru	478,374
+27	The Economic Times	English	Mumbai	359,142
+28	The Telegraph	English	Kolkata	352,972
+29	Udayavani	Kannada	Manipal	278,236
+30	Ei Samay Sangbadpatra	Bengali	Kolkata	243,273
